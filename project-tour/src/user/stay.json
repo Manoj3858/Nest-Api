@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "hotelName": " Rishikesh Riverside Hotel",
+    "location": "Rishikesh",
+    "pricePerNight": 3500,
+    "facilities": ["Spa", "Yoga Classes", "River Rafting"],
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "hotelName": " Bhubaneswar Heritage Inn",
+    "location": "Bhubaneswar",
+    "pricePerNight": 5000,
+    "facilities": [ "Free Wi-Fi", "Swimming Pool", "Restaurant"],
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "tourId": 1,
+    "stayId": 1,
+    "date": "2025-08-01",
+    "numberOfPeople": 2,
+    "totalAmount": 36000
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "tourId": 2,
+    "stayId": 2,
+    "date": "2025-09-15",
+    "numberOfPeople": 4,
+    "totalAmount": 48000
+  }
+]
+
+  

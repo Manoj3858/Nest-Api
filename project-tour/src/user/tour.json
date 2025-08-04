@@ -1,0 +1,19 @@
+[
+    {
+    "id": 2,
+    "name": "Utarakhand Adventure",
+    "location": "Badrinath,Kedarnath,Rishikesh, Auli,",
+    "price": 18000,
+    "duration": "6 Days",
+    "description": "Experience the thrill of Uttarakhand's mountains, rivers, and temples."
+  },
+  {
+    "id": 1,
+    "name": "Odisha Heritage Tour",
+    "location": "Bhubaneswar, Puri, Konark",
+    "price": 12000,
+    "duration": "4 Days",
+    "description": "Explore the rich cultural heritage of Odisha with visits to ancient temples and beaches."
+  }
+  
+]
